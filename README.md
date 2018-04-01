@@ -145,7 +145,7 @@ An outstanding series of 30 small projects accompanied with video tutorials, by 
 
 ___
 
-### FloxBox Froggy
+### FlexBox Froggy
 
 An interactive introduction to the CSS FlexBox.
 
