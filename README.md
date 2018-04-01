@@ -7,6 +7,8 @@ Make every minute count!
 * [The Programmer's Oath](#the-programmers-oath)
 * [JavaScript Puzzles](#javascript-puzzles)
 * [CodeWars 2.0](#codewars-2-0)
+* [Objects 101](#objects-101)
+* [Read, Document, Refactor](#read-document-refactor)
 * [Development Schedules](#development-schedules)
 * [Elewa Home](https://elewa-academy.github.io)
 
@@ -28,13 +30,7 @@ Short functions, objects, or scripts to de-tangle.
 * [Chain Link Function](./javascript-puzzles/chain-link-function.md)
 * [Fun One](./javascript-puzzles/fun-one.md)
 * [Simple Average](./javascript-puzzles/simple-average.md)
-* The Tims:
-  * [Tim 1](./javascript-puzzles/tim-1.md)
-  * [Tim 2](./javascript-puzzles/tim-2.md)
-  * [Tim 3](./javascript-puzzles/tim-3.md)
-  * [Tim 4](./javascript-puzzles/tim-4.md)
-  * [Tim 5](./javascript-puzzles/tim-5.md)
-  * [Tim 6](./javascript-puzzles/tim-6.md)
+* The Tims: [One](./javascript-puzzles/tim-1.md), [Two](./javascript-puzzles/tim-2.md), [Three](./javascript-puzzles/tim-3.md), [Four](./javascript-puzzles/tim-4.md), [Five](./javascript-puzzles/tim-5.md), [Six](./javascript-puzzles/tim-6.md)
 
 [TOP](#bite-sized-projects)
 
@@ -66,9 +62,35 @@ Learn more about this study method in _The Notional Machine_, a project from our
 
 ___
 
-## Development Schedules
+### Objects 101
 
-Practice making organized development schedules based on user stories.  Pick a simple site like a photo gallery, a portfolio, or a carry out menu and make a simple prototype using an agile methodology.
+Learn a little bit about JavaScript objects with these two study projects.
+
+Objects Video Series:
+* [Video Walk-Through](https://www.youtube.com/watch?v=f-aKxXt8Y0A)
+* [Code from video](https://github.com/elewa-academy/General-Resources/tree/master/javascript/object-video-code)
+
+Progressive Bank Account:
+* [Code to Study](https://github.com/elewa-academy/General-Resources/tree/master/javascript/using-js/objects)
+
+
+[TOP](#bite-sized-projects)
+
+___
+
+### Read, Document, Refactor
+
+Learn how to study source code using detailed code specifications.
+
+* [Template Repo](https://github.com/elewa-academy/studying-with-specs/tree/master)
+
+
+[TOP](#bit-sized-projects)
+___
+
+### Development Schedules
+
+Practice making organized development schedules based on user stories.  Pick a simple site like a photo gallery, a portfolio, or a carry out menu.  Then build a simple prototype using an agile methodology.
 
 This project is about the plan, not the programming. Use a tool like Mobirise tp build your landing page in minutes so you can focus on the planning process.
 
