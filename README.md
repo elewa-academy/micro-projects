@@ -13,6 +13,7 @@ Make every minute count!
 * [Development Schedules](#development-schedules)
 * [100 Day CSS](#100-day-css)
 * [JavaScript 30](#javascript-30)
+* [Flexbox Froggy](#flexbox-froggy) 
 * [Elewa Home](https://elewa-academy.github.io)
 
 ___
@@ -125,7 +126,7 @@ ___
 
 ### 100 Day CSS
 
-Boost your CSS skilzz with 100 bite sized challenges.
+Boost your CSS skilzz with 100 bite sized challenges.  Each is presented as a small, completed project.  Pick apart the source code, try replicating each one and explaining them to a friend.
 
 * [The 100 Challenges](https://100dayscss.com)
 
@@ -139,6 +140,17 @@ ___
 An outstanding series of 30 small projects accompanied with video tutorials, by Wes Bos.
 
 * [The JavaScript 30](http://javascript30.com)
+
+[TOP](#bite-sized-projects)
+
+___
+
+### FloxBox Froggy
+
+An interactive introduction to the CSS FlexBox.
+
+* [The website](http://flexboxfroggy.com)
+
 
 [TOP](#bite-sized-projects)
 
