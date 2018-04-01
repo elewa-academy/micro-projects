@@ -5,6 +5,7 @@ Little projects you can finish in 45 minutes or less.
 Make every minute count!
 
 * [JavaScript Puzzles](#javascript-puzzles)
+* [Elewa Home](https://elewa-academy.github.io)
 
 ___
 
