@@ -11,6 +11,7 @@ Make every minute count!
 * [Objects 101](#objects-101)
 * [Read, Document, Refactor](#read-document-refactor)
 * [Development Schedules](#development-schedules)
+* [100 Day CSS](#100-day-css)
 * [JavaScript 30](#javascript-30)
 * [Elewa Home](https://elewa-academy.github.io)
 
@@ -117,6 +118,17 @@ Landing Page Builders:
 * [Pigendo](https://pingendo.com) - for Linux. 
 
 Learn more about deployment schedules in the _Organizing Development_ project from our [Fundamentals Series](https://elewa-academy.github.io/Fundamentals/).
+
+[TOP](#bite-sized-projects)
+
+___
+
+### 100 Day CSS
+
+Boost your CSS skilzz with 100 bite sized challenges.
+
+* [The 100 Challenges](https://100dayscss.com)
+
 
 [TOP](#bite-sized-projects)
 
