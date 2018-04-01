@@ -20,6 +20,7 @@ ___
 
 
 [TOP](#bite-sized-projects)
+
 ___
 
 ### JavaScript Puzzles
