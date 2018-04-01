@@ -5,6 +5,7 @@ Little projects you can finish in 45 minutes or less.
 Make every minute count!
 
 * [JavaScript Puzzles](#javascript-puzzles)
+
 ___
 
 ### JavaScript Puzzles
@@ -12,7 +13,7 @@ ___
 Short functions, objects, or scripts to de-tangle.
 
 * [Twister](./javascript-puzzles/twister.md)
-* [Chain Link Function](./javascript-puzzles/chain-link-funciton.md)
+* [Chain Link Function](./javascript-puzzles/chain-link-function.md)
 * [Fun One](./javascript-puzzles/fun-one.md)
 * [Simple Average](./javascript-puzzles/simple-average.md)
 * The Tims:

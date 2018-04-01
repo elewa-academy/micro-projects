@@ -3,7 +3,7 @@
 De-tangle this one:
 
 
-```
+```js
 'use strict'
 
 function simpleAverage () {
@@ -30,7 +30,7 @@ function simpleAverage () {
 }
 
 module.exports = simpleAverage
-```js
+```
 
 Read this project [on GitHub](https://github.com/Kikobeats/simple-average/).
 
