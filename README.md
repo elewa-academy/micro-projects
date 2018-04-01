@@ -4,13 +4,24 @@ Little projects you can finish in 45 minutes or less.
 
 Make every minute count!
 
+* [Gh-Pages Portfolio](#gh-pages-portfolio)
 * [The Programmer's Oath](#the-programmers-oath)
 * [JavaScript Puzzles](#javascript-puzzles)
 * [CodeWars 2.0](#codewars-2-0)
 * [Objects 101](#objects-101)
 * [Read, Document, Refactor](#read-document-refactor)
 * [Development Schedules](#development-schedules)
+* [JavaScript 30](#javascript-30)
 * [Elewa Home](https://elewa-academy.github.io)
+
+___
+
+### Gh-Pages Portfolio
+
+Build and publish a live portfolio hosted on your GitHub account.
+
+* [Dannguyen's Guide](https://dannguyen.github.io/github-for-portfolios/)
+
 
 ___
 
@@ -32,6 +43,7 @@ Short functions, objects, or scripts to de-tangle.
 * [Fun One](./javascript-puzzles/fun-one.md)
 * [Simple Average](./javascript-puzzles/simple-average.md)
 * The Tims: [One](./javascript-puzzles/tim-1.md), [Two](./javascript-puzzles/tim-2.md), [Three](./javascript-puzzles/tim-3.md), [Four](./javascript-puzzles/tim-4.md), [Five](./javascript-puzzles/tim-5.md), [Six](./javascript-puzzles/tim-6.md)
+* [JavaScript Puzzlers Webinars](http://blogs.adobe.com/charles/2013/05/javascript-puzzlers-puzzles-that-make-you-think-presented-at-adobe-max-2013.html)
 
 [TOP](#bite-sized-projects)
 
@@ -105,6 +117,16 @@ Landing Page Builders:
 * [Pigendo](https://pingendo.com) - for Linux. 
 
 Learn more about deployment schedules in the _Organizing Development_ project from our [Fundamentals Series](https://elewa-academy.github.io/Fundamentals/).
+
+[TOP](#bite-sized-projects)
+
+___
+
+### JavaScript 30
+
+An outstanding series of 30 small projects accompanied with video tutorials, by Wes Bos.
+
+* [The JavaScript 30](http://javascript30.com)
 
 [TOP](#bite-sized-projects)
 
