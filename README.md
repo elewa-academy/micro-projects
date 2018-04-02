@@ -1,6 +1,6 @@
 ## Bite sized projects 
 
-Little projects you can finish in 45 minutes or less.
+Little projects you can learn from in 45 minutes or less.
 
 Make every minute count!
 
@@ -70,6 +70,8 @@ Kata Recommendations:
     * [The First Shall be Last](https://www.codewars.com/kata/scrolling-text)
 * Send us your favorites!
 
+For more abstract challenges, check out [The Euler Project](https://projecteuler.net)
+.
 Learn more about this study method in _The Notional Machine_, a project from our [Fundamentals Series](https://elewa-academy.github.io/Fundamentals/).
 
 
@@ -149,7 +151,7 @@ ___
 
 An interactive introduction to the CSS FlexBox.
 
-* [The website](http://flexboxfroggy.com)
+* [The Flexbox Froggy](http://flexboxfroggy.com)
 
 
 [TOP](#bite-sized-projects)
