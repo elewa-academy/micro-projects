@@ -7,7 +7,7 @@ Make every minute count!
 * [Gh-Pages Portfolio](#gh-pages-portfolio)
 * [The Programmer's Oath](#the-programmers-oath)
 * [JavaScript Puzzles](#javascript-puzzles)
-* [CodeWars 2.0](#codewars-2-0)
+* [CodeWars 2.0](#codewars-20)
 * [Objects 101](#objects-101)
 * [Read, Document, Refactor](#read-document-refactor)
 * [Development Schedules](#development-schedules)
