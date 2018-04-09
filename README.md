@@ -53,11 +53,9 @@ ___
 
 ### CodeWars 2.0
 
-Simply solving a programming challenge isn't enough for deep learning.  Go all-in by filling out one of our CodeWar Template Repos for each challenge you attempt.
+Simply solving a programming challenge isn't enough for deep learning.  Go all-in by treating each code war as a full development project.
 
-CodeWars Repos:
-* [Template Repo](https://github.com/elewa-academy/exercise-template-repo).  Fork and complete this repo for every kata you do. 
-* [Demo Codewar Repo](https://github.com/elewa-student/String-Reverser).  You can use this as a reference for how to complete your repos.
+[Solution Design GitBook](https://elewa-academy.github.io/Solution-Design)
 
 Kata Recommendations:
 * 8 Kyu - 
